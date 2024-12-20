@@ -5,7 +5,7 @@ on:
       - main
   workflow_dispatch:
 jobs:
-  my first job:
+  my-first-job:
     runs-on: ubuntu-latest
     steps:
       - name: echo
